@@ -1,0 +1,15 @@
+{
+  "contact": "",
+  "templates": [
+    {
+      "name": "BZH",
+      "sources": [
+        "https://i.imgur.com/sglULqV.png"
+      ],
+      "x": 1176,
+      "y": 1748
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
